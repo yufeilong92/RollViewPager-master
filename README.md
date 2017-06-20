@@ -153,4 +153,3 @@ License
     limitations under the License.
 # 点击查看最新项目
 [url](https://github.com/Jude95/RollViewPager)
-{(https://github.com/Jude95/RollViewPager)}
